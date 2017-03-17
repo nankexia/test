@@ -3,6 +3,11 @@ package me.chanjar.weixin.common.api;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 
+ * @author Administrator
+ *
+ */
 public class WxConsts {
 
   ///////////////////////
